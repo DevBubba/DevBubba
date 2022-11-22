@@ -1,4 +1,4 @@
-<p align="center"><a href="https://devbubba.github.io"><img width="80%" src="./assets/banner.png" /></a></p>
+<p align="center"><a href=""><img width="80%" src="/assets/banner.png" /></a></p>
 
 <br />
 <br />
