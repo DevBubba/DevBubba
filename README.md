@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80%" src="dev_bubba_banner.png" /></a></p>
+<p align="center"><a href=""><img width="80%" src="Dev_Bubba_Banner.png" /></a></p>
 
 <br />
 <br />
