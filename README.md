@@ -1,5 +1,5 @@
 <p align=center>
-  <a href=""><img width="80%" src="Dev_Bubba_Banner.png"/></a>
+  <a href=""><img width="80%" src="Banner.png"/></a>
 </p>
 
 <p align=center>
