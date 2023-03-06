@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/devbubba"><img src="https://img.shields.io/github/followers/devbubba?style=for-the-badge"></img></a>
   <a href="https://github.com/devbubba"><img src="https://img.shields.io/github/stars/devbubba?style=for-the-badge"></img></a>
-  <a href="https://devbubba.tk"><img src="https://img.shields.io/website?down_message=devbubba.tk%20&style=for-the-badge&up_message=addidix.xyz%20is%20up%21&url=https%3A%2F%2Fwww.addidix.xyz"></img></a>
+  <a href="https://devbubba.github.io"><img src="https://img.shields.io/website?down_message=devbubba.tk%20&style=for-the-badge&up_message=devbubba.github.io%20is%20up%21&url=https%3A%2F%2Fdevbubba.github.io"></img></a>
 </p>
 
 <p align="center">
