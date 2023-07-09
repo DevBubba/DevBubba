@@ -1,8 +1,4 @@
 <p align=center>
-  <a href=""><img width="80%" src="Banner.png"/></a>
-</p>
-
-<p align=center>
   <a href="https://discord.gg/6qAvAephsW"><img src="https://lanyard.cnrad.dev/api/767140711102414879" width=45%></a>
 </p>
 
