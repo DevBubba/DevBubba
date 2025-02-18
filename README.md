@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.gg/6qAvAephsW">
-    <img src="https://lanyard.cnrad.dev/api/767140711102414879" width="50%">
+    <img src="https://lanyard.cnrad.dev/api/767140711102414879?idleMessage=Im%20Offline%20Probably%20Procrastinating%20Or%20Sleeping%20Tbh" width="35%">
   </a>
 </p>
 
@@ -29,22 +29,31 @@
 
 <p align="center">
   <a href="https://html.com"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"></a>
   <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch_File-4D4D4D?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/devbubba">
-    <img src="https://github-readme-stats.vercel.app/api?username=devbubba&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=devbubba&show_icons=true&count_private=true&hide_border=true&bg_color=1a1c1f&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f">
   </a>
   <a href="https://github.com/devbubba">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbubba&theme=tokyonight&hide_border=true" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbubba&hide_border=true&background=1a1c1f&ring=00ff7f&fire=00ff7f&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=00ff7f&sideLabels=ffffff&dates=ffffff">
   </a>
   <a href="https://github.com/devbubba">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbubba&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbubba&langs_count=10&layout=compact&hide_border=true&bg_color=1a1c1f&title_color=00ff7f&text_color=ffffff">
   </a>
 </p>
+
+
+
+
+
+
+
+
