@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://discord.gg/6qAvAephsW">
-    <img src="https://lanyard.cnrad.dev/api/767140711102414879?idleMessage=Im%20Offline%20Probably%20Procrastinating%20Or%20Sleeping%20Tbh" width="70%">
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td>
@@ -19,7 +13,11 @@
   </tr>
 </table>
 
-
+<p align="center">
+  <a href="https://discord.gg/6qAvAephsW">
+    <img src="https://lanyard.cnrad.dev/api/767140711102414879?idleMessage=Im%20Offline%20Probably%20Procrastinating%20Or%20Sleeping%20Tbh" width="40%">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/devbubba">
