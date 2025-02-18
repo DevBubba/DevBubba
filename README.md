@@ -6,6 +6,15 @@
 
 <p align="center">
   <a href="https://github.com/devbubba">
+    <img src="https://github-readme-stats.vercel.app/api?username=devbubba&show_icons=true&count_private=true&hide_border=true&bg_color=1a1c1f&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&custom_title=GitHub%20Stats%20And%20Rating&card_width=500">
+  </a>
+  <a href="https://github.com/devbubba">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbubba&hide_border=true&background=1a1c1f&ring=00ff7f&fire=00ff7f&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=00ff7f&sideLabels=ffffff&dates=ffffff">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/devbubba">
     <img src="https://img.shields.io/github/followers/devbubba?style=for-the-badge">
   </a>
   <a href="https://github.com/devbubba">
@@ -35,13 +44,3 @@
   <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch_File-4D4D4D?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/devbubba">
-    <img src="https://github-readme-stats.vercel.app/api?username=devbubba&show_icons=true&count_private=true&hide_border=true&bg_color=1a1c1f&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&custom_title=GitHub%20Stats%20And%20Rating&card_width=500">
-  </a>
-  <a href="https://github.com/devbubba">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbubba&hide_border=true&background=1a1c1f&ring=00ff7f&fire=00ff7f&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=00ff7f&sideLabels=ffffff&dates=ffffff">
-  </a>
-</p>
-
