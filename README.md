@@ -15,7 +15,6 @@
   <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch_File-1F1F1F?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
 <p align="center">
